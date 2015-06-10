@@ -1,0 +1,18 @@
+{
+  "name": "redirect-export",
+  "version": "1.0.0",
+  "description": "Redirect storing and exporting module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/petercsoka/redirect-export.git"
+  },
+  "author": "Peter Csoka",
+  "bugs": {
+    "url": "https://github.com/petercsoka/redirect-export/issues"
+  },
+  "homepage": "https://github.com/petercsoka/redirect-export"
+}
